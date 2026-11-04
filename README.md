@@ -18,7 +18,7 @@
 >
 > <div align="justify">
 >
-> As an independent polymath operating at the intersection of theoretical, computational, and experimental mechanics and applied physics, alongside intellectual sovereignty, my work bridges fundamental wave dynamics with applied frameworks. Driven by a Sovereign Intellect, my research pioneers nonlinear metamaterials, time crystals, and nonlinear cloaking to redefine the boundaries of elastic wave manipulation. By seamlessly integrating nonlinear waves, inverse design, AI/ML for structural health monitoring, NDE 4.0, and additive manufacturing, I strive to forge a transformative research universe, pushing the frontiers of physics and structural integrity for the modern era.
+> As an independent polymath operating at the intersection of theoretical, computational, and experimental mechanics and applied physics, alongside intellectual sovereignty, my work bridges fundamental wave dynamics with applied frameworks. Driven by a Sovereign Intellect, my research pioneers nonlinear metamaterials, time crystals, and nonlinear cloaking to redefine the boundaries of elastic wave manipulation. By seamlessly integrating nonlinear waves, inverse design, AI/ML, SHM, NDE 4.0, and additive manufacturing, I strive to forge a transformative research universe, pushing the frontiers of physics and structural integrity for the modern era.
 
 </div>
 
