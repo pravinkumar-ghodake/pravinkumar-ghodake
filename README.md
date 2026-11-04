@@ -1,7 +1,6 @@
 <div align="center">
 
 # Pravinkumar Ramchandra Ghodake
-### PhD Scholar & Independent Researcher
 **Nonlinear Ultrasonics · Mechanical Metamaterials · Inverse Design**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6755--4003-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6755-4003)
