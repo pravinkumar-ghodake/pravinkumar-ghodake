@@ -13,10 +13,12 @@
 
 ---
 
-> <div align="justify">
+> 
 
 > *"All linear systems are alike, but every nonlinear system is nonlinear in its own way."* — **Prof. Zhigang Suo** (Harvard)
-> 
+>
+> <div align="justify">
+>
 > As an independent polymath operating at the intersection of theoretical, computational & experimental mechanics/physics, and intellectual sovereignty, my work bridges fundamental wave dynamics with applied frameworks. Driven by a Sovereign Intellect, my research pioneers nonlinear metamaterials, time crystals, and nonlinear cloaking to redefine the boundaries of elastic wave manipulation. By seamlessly integrating these diverse domains, I strive to forge a transformative research universe, pushing the frontiers of physics and structural integrity for the modern era.
 
 </div>
